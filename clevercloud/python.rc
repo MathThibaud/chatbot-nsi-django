@@ -1,0 +1,1 @@
+build_script = "pip install -r requirements.txt"
